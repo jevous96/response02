@@ -1,0 +1,19 @@
+@media screen and (min-width:1160px){
+  header>div{
+    width: 1160px;}
+  #box02>section{
+    width: 1160px;}  
+  #box04>div{
+    width: 1160px;}
+  #box01>ul{
+    margin-left: -565px;
+    width: 1160px;}
+  #all{ 
+    width: 1130px;}
+}
+
+@media screen and (max-width:1159px) and (min-width:980px){}
+
+@media screen and (max-width:1979px) and (min-width:580px){}
+
+@media screen and (max-width:579px) and (min-width:5px){}
